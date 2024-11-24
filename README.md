@@ -36,9 +36,9 @@ git clone https://github.com/Overlord-1/codehunt-editorial-fe.git
 - Download and test with provided test cases (`.zip` files)
 - Study the implementation in your preferred language
 
-## 💻 Languages Supported
+## 💻 Languages
 - Python 3
-- C++
+- C++ 
 
 ## ⭐ Show Your Support
 If you found these editorials helpful, please consider giving this repository a star!
